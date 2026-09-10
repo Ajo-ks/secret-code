@@ -3,7 +3,7 @@ import logging
 from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, filters, ContextTypes
 
-Token = "8930561167:AAG4H9WS3Q-TKm6a73OHrcG7BLCdFbC99Fc"
+TOKEN = "8930561167:AAG4H9WS3Q-TKm6a73OHrcG7BLCdFbC99Fc"
 GROUP_ID = -5427365483
 
 # Множество зарегистрированных участников
